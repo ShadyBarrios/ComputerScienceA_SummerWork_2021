@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ComputerScienceA_SummerWork_2021</string>
+    <string name="Title">Burger Price Calculator</string>
+    <string name="Tax">Tax Rate: 12.5%</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="BunCategory">Select your type of bread:</string>
+    <string name="Bun1">Wheat - $1.25</string>
+    <string name="Bun2">White - $1.00</string>
+
+    <string name="CondimentCategory">Select your condiments:</string>
+    <string name="Condiment1">Mayonaise - $0.15</string>
+    <string name="Condiment2">Ketchup - $0.15</string>
+    <string name="Condiment3">Mustard - $0.15</string>
+
+    <string name="MeatCategory">Select your patty:</string>
+    <string name="Meat1">Beef - $2.00</string>
+    <string name="Meat2">Turkey - $2.50</string>
+    <string name="Meat3">Vegan - $2.75</string>
+
+</resources>
